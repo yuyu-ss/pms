@@ -20,8 +20,5 @@ public class DateTimeConverter implements Converter<String, Date> {
         }
         return null;
     }
-    public void sa(){
-        System.out.println("nihao");
-    }
     
 }
